@@ -1,4 +1,4 @@
-#Bitcoin Notification
+# Bitcoin Notification
 
 I made a bitcoin notification application, inspired by the show Silicon Valley. What the application does is refer to an API and determine when the rate for bitcoin is negative which triggers a notification sound.
  
